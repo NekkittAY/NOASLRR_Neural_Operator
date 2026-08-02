@@ -7,7 +7,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-A residual Deep Operator Network (DeepONet) with **Chebyshev spectral features**, **low-rank linear projections**, and **adaptive gating**, designed for efficient learning of nonlinear operators arising in partial differential equations (PDEs).
+A Deep Operator Network (DeepONet) with **Chebyshev spectral features**, **low-rank linear projections**, and **adaptive gating**, designed for efficient learning of nonlinear operators arising in partial differential equations (PDEs).
 
 ---
 
