@@ -1,4 +1,4 @@
-# ResDeepONet-LowRank-Chebyshev
+# Neural Operator with Adaptive Spectral and Low-Rank Representations
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
