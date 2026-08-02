@@ -13,7 +13,7 @@ A residual Deep Operator Network (DeepONet) with **Chebyshev spectral features**
 
 ## Overview
 
-**ResDeepONet-LowRank-Chebyshev** is a neural operator architecture that extends the classical DeepONet framework by enriching the branch network with:
+**Neural Operator with Adaptive Spectral and Low-Rank Representations** is a neural operator architecture that extends the classical DeepONet framework by enriching the branch network with:
 
 1. **Spectral information** via Chebyshev polynomial coefficients  
 2. **Low-rank projections** to reduce parameter count and improve generalization  
